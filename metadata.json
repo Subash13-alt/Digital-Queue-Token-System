@@ -1,0 +1,5 @@
+{
+  "name": "GovQueue: Logic-Based Token System",
+  "description": "A high-precision, deterministic digital queue management system designed for government offices. Uses pure logic for token sequencing, wait time calculation, and multi-counter service management with local persistence.",
+  "requestFramePermissions": []
+}
